@@ -1,0 +1,2 @@
+#!/bin/sh
+./create-service.py
